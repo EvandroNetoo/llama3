@@ -1,0 +1,39 @@
+Django!
+
+Django é um framework web livre e de código aberto, escrito em Python. Foi criado por Adrian Holovaty e Simon Willison em 2003 e desde então tem se tornado uma das tecnologias mais populares e amplamente usadas para desenvolver aplicativos web.
+
+Django é frequentemente referido como um "framework" porque ele fornece uma estrutura preconcebida para construir aplicações web, incluindo:
+
+1. **Modelos de dados**: Django fornece um sistema de gerenciamento de banco de dados chamado ORM (Object-Relational Mapping), que permite trabalhar com dados como objetos Python.
+2. **Vistas**: Django oferece uma forma simplificada para criar páginas web, utilizando funções chamadas "vistas" que retornam HTML ou outros conteúdos.
+3. **Templates**: Django inclui um sistema de templating que permite separar a lógica de negócios do layout e estilo da página.
+4. **Formulários**: Django fornece uma forma simplificada para criar formulários web, incluindo validação de dados e suporte a campos de formulário complexos.
+5. **Segurança**: Django inclui um sistema de autenticação e autorização robusto, que permite controlar quem pode acessar as páginas da aplicação.
+
+Além disso, Django é conhecido por suas características, como:
+
+* **Administração integrada**: Django inclui uma interface administrativa padrão para gerenciar os dados da aplicação.
+* **Desenvolvimento rápido**: Django fornece ferramentas e bibliotecas que ajudam a agilizar o processo de desenvolvimento, permitindo criar aplicações web rapidamente.
+* **Escalabilidade**: Django é projetado para ser escalável, suportando aplicações grandes e complexas.
+* **Comunidade ativa**: Django tem uma comunidade vasta e ativa, com milhares de desenvolvedores contribuindo com pacotes, bibliotecas e recursos.
+
+Em resumo, Django é um framework web que fornece uma estrutura robusta para construir aplicações web, ajudando a desenvolvedores a criar soluções escaláveis, seguras e eficientes.Django!
+
+Django é um framework web livre e de código aberto, escrito em Python. Foi criado por Adrian Holovaty e Simon Willison em 2003 e desde então tem se tornado uma das tecnologias mais populares e amplamente usadas para desenvolver aplicativos web.
+
+Django é frequentemente referido como um "framework" porque ele fornece uma estrutura preconcebida para construir aplicações web, incluindo:
+
+1. **Modelos de dados**: Django fornece um sistema de gerenciamento de banco de dados chamado ORM (Object-Relational Mapping), que permite trabalhar com dados como objetos Python.
+2. **Vistas**: Django oferece uma forma simplificada para criar páginas web, utilizando funções chamadas "vistas" que retornam HTML ou outros conteúdos.
+3. **Templates**: Django inclui um sistema de templating que permite separar a lógica de negócios do layout e estilo da página.
+4. **Formulários**: Django fornece uma forma simplificada para criar formulários web, incluindo validação de dados e suporte a campos de formulário complexos.
+5. **Segurança**: Django inclui um sistema de autenticação e autorização robusto, que permite controlar quem pode acessar as páginas da aplicação.
+
+Além disso, Django é conhecido por suas características, como:
+
+* **Administração integrada**: Django inclui uma interface administrativa padrão para gerenciar os dados da aplicação.
+* **Desenvolvimento rápido**: Django fornece ferramentas e bibliotecas que ajudam a agilizar o processo de desenvolvimento, permitindo criar aplicações web rapidamente.
+* **Escalabilidade**: Django é projetado para ser escalável, suportando aplicações grandes e complexas.
+* **Comunidade ativa**: Django tem uma comunidade vasta e ativa, com milhares de desenvolvedores contribuindo com pacotes, bibliotecas e recursos.
+
+Em resumo, Django é um framework web que fornece uma estrutura robusta para construir aplicações web, ajudando a desenvolvedores a criar soluções escaláveis, seguras e eficientes.
